@@ -1,4 +1,5 @@
 # Generador de Cronograma de Supervisores
+## 🚀 [Ver la aplicación desplegada](https://jaiderpobce.github.io/cronograma/) 🚀
 
 Este proyecto es una aplicación web moderna construida con React y TypeScript para automatizar la planificación de turnos en minería, asegurando una cobertura constante de 2 supervisores en perforación.
 
