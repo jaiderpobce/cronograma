@@ -2,7 +2,7 @@
   "name": "cronograma-app",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://jaiderponce.github.io/cronograma-app/",
+  "homepage": "/cronograma-app/",
   "type": "module",
   "scripts": {
     "dev": "vite",
